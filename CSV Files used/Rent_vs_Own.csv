@@ -1,0 +1,369 @@
+ID Occupied By,Occupied By,ID Year,Year,Household Ownership,Household Ownership Moe,Geography,ID Geography,Slug Geography,share
+0,"Owner Occupied",2020,"2020",78801376,342600,"United States","01000US","united-states",0.64404298146842
+0,"Owner Occupied",2020,"2020",6168808,30914,"Texas","04000US48","texas",0.6227301038656097
+0,"Owner Occupied",2020,"2020",192555,2336,"Fort Bend County, TX","05000US48157","fort-bend-county-tx",0.7754964780365607
+0,"Owner Occupied",2020,"2020",897913,6706,"Harris County, TX","05000US48201","harris-county-tx",0.548930795617176
+0,"Owner Occupied",2020,"2020",147027,2364,"Montgomery County, TX","05000US48339","montgomery-county-tx",0.7146982048328059
+0,"Owner Occupied",2020,"2020",2594,421,"Aldine, TX","16000US4801696","aldine-tx",0.6019958226966814
+0,"Owner Occupied",2020,"2020",21010,1016,"Atascocita, TX","16000US4804462","atascocita-tx",0.8073937437552839
+0,"Owner Occupied",2020,"2020",5971,296,"Bellaire, TX","16000US4807300","bellaire-tx",0.883937823834197
+0,"Owner Occupied",2020,"2020",403,62,"Brookside Village, TX","16000US4810648","brookside-village-tx",0.848421052631579
+0,"Owner Occupied",2020,"2020",1179,131,"Bunker Hill Village, TX","16000US4811300","bunker-hill-village-tx",0.9364575059571089
+0,"Owner Occupied",2020,"2020",8925,733,"Channelview, TX","16000US4814236","channelview-tx",0.7504414361389052
+0,"Owner Occupied",2020,"2020",4263,350,"Cinco Ranch, TX","16000US4814929","cinco-ranch-tx",0.7247534852091125
+0,"Owner Occupied",2020,"2020",4398,325,"Cloverleaf, TX","16000US4815628","cloverleaf-tx",0.6205728799209821
+0,"Owner Occupied",2020,"2020",8592,560,"Deer Park, TX","16000US4819624","deer-park-tx",0.7383346223253415
+0,"Owner Occupied",2020,"2020",1971,312,"Four Corners, TX","16000US4827102","four-corners-tx",0.6543824701195219
+0,"Owner Occupied",2020,"2020",5902,721,"Fresno, TX","16000US4827540","fresno-tx",0.8144059610873465
+0,"Owner Occupied",2020,"2020",10378,521,"Friendswood, TX","16000US4827648","friendswood-tx",0.7664697193500739
+0,"Owner Occupied",2020,"2020",3458,223,"Fulshear, TX","16000US4827876","fulshear-tx",0.9637681159420289
+0,"Owner Occupied",2020,"2020",2018,260,"Galena Park, TX","16000US4827996","galena-park-tx",0.668433256045048
+0,"Owner Occupied",2020,"2020",717,83,"Hedwig Village, TX","16000US4833068","hedwig-village-tx",0.7249747219413549
+0,"Owner Occupied",2020,"2020",310,54.99999999999999,"Hilshire Village, TX","16000US4834148","hilshire-village-tx",0.9717868338557993
+0,"Owner Occupied",2020,"2020",375219,4376,"Houston, TX","16000US4835000","houston-tx",0.42890651523101136
+0,"Owner Occupied",2020,"2020",2294,446,"Humble, TX","16000US4835348","humble-tx",0.3599560646477326
+0,"Owner Occupied",2020,"2020",1645,151,"Hunters Creek Village, TX","16000US4835480","hunters-creek-village-tx",0.9927579963789982
+0,"Owner Occupied",2020,"2020",2272,294,"Jacinto City, TX","16000US4837156","jacinto-city-tx",0.7071272953625894
+0,"Owner Occupied",2020,"2020",2039,200,"Jersey Village, TX","16000US4837612","jersey-village-tx",0.5884559884559885
+0,"Owner Occupied",2020,"2020",5137,468.00000000000006,"Katy, TX","16000US4838476","katy-tx",0.7909160892994611
+0,"Owner Occupied",2020,"2020",1574,109.99999999999999,"Meadows Place, TX","16000US4847337","meadows-place-tx",0.8867605633802816
+0,"Owner Occupied",2020,"2020",8656,749,"Mission Bend, TX","16000US4848772","mission-bend-tx",0.7967599410898379
+0,"Owner Occupied",2020,"2020",20322,762,"Missouri City, TX","16000US4848804","missouri-city-tx",0.818544326741048
+0,"Owner Occupied",2020,"2020",893,164,"Nassau Bay, TX","16000US4850376","nassau-bay-tx",0.4724867724867725
+0,"Owner Occupied",2020,"2020",1135,118,"Oak Ridge North, TX","16000US4853190","oak-ridge-north-tx",0.9333881578947368
+0,"Owner Occupied",2020,"2020",25274,887,"Pasadena, TX","16000US4856000","pasadena-tx",0.5246398472204924
+0,"Owner Occupied",2020,"2020",32519,1073,"Pearland, TX","16000US4856348","pearland-tx",0.772459499263623
+0,"Owner Occupied",2020,"2020",5601,564,"Pecan Grove, TX","16000US4856482","pecan-grove-tx",0.8597083653108212
+0,"Owner Occupied",2020,"2020",1174,86,"Piney Point Village, TX","16000US4857800","piney-point-village-tx",0.9907172995780591
+0,"Owner Occupied",2020,"2020",2677,320,"South Houston, TX","16000US4869020","south-houston-tx",0.5127370235587052
+0,"Owner Occupied",2020,"2020",390,51,"Southside Place, TX","16000US4869272","southside-place-tx",0.7262569832402235
+0,"Owner Occupied",2020,"2020",14374,888,"Spring, TX","16000US4869596","spring-tx",0.7121129551647263
+0,"Owner Occupied",2020,"2020",1350,86,"Spring Valley Village, TX","16000US4869830","spring-valley-village-tx",0.9684361549497847
+0,"Owner Occupied",2020,"2020",31541,936.9999999999999,"Sugar Land, TX","16000US4870808","sugar-land-tx",0.8118243591063523
+0,"Owner Occupied",2020,"2020",29687,1299,"The Woodlands, TX","16000US4872656","the-woodlands-tx",0.7203834020868721
+0,"Owner Occupied",2020,"2020",2061,283,"Tomball, TX","16000US4873316","tomball-tx",0.4563773250664305
+0,"Owner Occupied",2020,"2020",848,225.99999999999997,"Webster, TX","16000US4876948","webster-tx",0.15898012748406448
+0,"Owner Occupied",2020,"2020",5002,257,"West University Place, TX","16000US4877956","west-university-place-tx",0.9161172161172161
+0,"Owner Occupied",2020,"2020",1466613,10021,"Houston-The Woodlands-Sugar Land, TX","31000US26420","houston-the-woodlands-sugar-land-tx",0.6090603253414774
+0,"Owner Occupied",2019,"2019",77274381,377633,"United States","01000US","united-states",0.6399214141224628
+0,"Owner Occupied",2019,"2019",6004802,29081,"Texas","04000US48","texas",0.6195852985565817
+0,"Owner Occupied",2019,"2019",183583,2112,"Fort Bend County, TX","05000US48157","fort-bend-county-tx",0.7717365259392223
+0,"Owner Occupied",2019,"2019",876454,5966,"Harris County, TX","05000US48201","harris-county-tx",0.5459520807690199
+0,"Owner Occupied",2019,"2019",141137,2161,"Montgomery County, TX","05000US48339","montgomery-county-tx",0.7104843215923564
+0,"Owner Occupied",2019,"2019",2370,224,"Aldine, TX","16000US4801696","aldine-tx",0.6200941915227629
+0,"Owner Occupied",2019,"2019",20351,686,"Atascocita, TX","16000US4804462","atascocita-tx",0.8013782240598543
+0,"Owner Occupied",2019,"2019",6035,204,"Bellaire, TX","16000US4807300","bellaire-tx",0.8936768843476973
+0,"Owner Occupied",2019,"2019",433,87,"Brookside Village, TX","16000US4810648","brookside-village-tx",0.8747474747474747
+0,"Owner Occupied",2019,"2019",1176,91,"Bunker Hill Village, TX","16000US4811300","bunker-hill-village-tx",0.9607843137254902
+0,"Owner Occupied",2019,"2019",8688,453,"Channelview, TX","16000US4814236","channelview-tx",0.711897738446411
+0,"Owner Occupied",2019,"2019",4510,289,"Cinco Ranch, TX","16000US4814929","cinco-ranch-tx",0.8301122768267992
+0,"Owner Occupied",2019,"2019",4252,259,"Cloverleaf, TX","16000US4815628","cloverleaf-tx",0.611886602388833
+0,"Owner Occupied",2019,"2019",8398,463,"Deer Park, TX","16000US4819624","deer-park-tx",0.7545372866127583
+0,"Owner Occupied",2019,"2019",2169,286,"Four Corners, TX","16000US4827102","four-corners-tx",0.7407786885245902
+0,"Owner Occupied",2019,"2019",5649,442.00000000000006,"Fresno, TX","16000US4827540","fresno-tx",0.8149163300634737
+0,"Owner Occupied",2019,"2019",10729,376,"Friendswood, TX","16000US4827648","friendswood-tx",0.8119418798244287
+0,"Owner Occupied",2019,"2019",2828,112,"Fulshear, TX","16000US4827876","fulshear-tx",0.9833101529902643
+0,"Owner Occupied",2019,"2019",1819,175,"Galena Park, TX","16000US4827996","galena-park-tx",0.6360139860139861
+0,"Owner Occupied",2019,"2019",620,63.00000000000001,"Hedwig Village, TX","16000US4833068","hedwig-village-tx",0.6385169927909372
+0,"Owner Occupied",2019,"2019",307,47,"Hilshire Village, TX","16000US4834148","hilshire-village-tx",0.9715189873417721
+0,"Owner Occupied",2019,"2019",363093,3509,"Houston, TX","16000US4835000","houston-tx",0.4230009296646916
+0,"Owner Occupied",2019,"2019",2438,367,"Humble, TX","16000US4835348","humble-tx",0.39849624060150374
+0,"Owner Occupied",2019,"2019",1528,80,"Hunters Creek Village, TX","16000US4835480","hunters-creek-village-tx",0.9922077922077922
+0,"Owner Occupied",2019,"2019",2089,263,"Jacinto City, TX","16000US4837156","jacinto-city-tx",0.6505761445032701
+0,"Owner Occupied",2019,"2019",2080,176,"Jersey Village, TX","16000US4837612","jersey-village-tx",0.5615550755939525
+0,"Owner Occupied",2019,"2019",5345,352,"Katy, TX","16000US4838476","katy-tx",0.8036385505938957
+0,"Owner Occupied",2019,"2019",1435,117.00000000000001,"Meadows Place, TX","16000US4847337","meadows-place-tx",0.9216441875401413
+0,"Owner Occupied",2019,"2019",8203,416,"Mission Bend, TX","16000US4848772","mission-bend-tx",0.7613699647299054
+0,"Owner Occupied",2019,"2019",20086,792,"Missouri City, TX","16000US4848804","missouri-city-tx",0.8148809282323827
+0,"Owner Occupied",2019,"2019",861,127,"Nassau Bay, TX","16000US4850376","nassau-bay-tx",0.5097690941385435
+0,"Owner Occupied",2019,"2019",1049,121,"Oak Ridge North, TX","16000US4853190","oak-ridge-north-tx",0.9209833187006146
+0,"Owner Occupied",2019,"2019",25706,872,"Pasadena, TX","16000US4856000","pasadena-tx",0.5353297653012349
+0,"Owner Occupied",2019,"2019",31509,991,"Pearland, TX","16000US4856348","pearland-tx",0.7591249668730575
+0,"Owner Occupied",2019,"2019",5094,437.00000000000006,"Pecan Grove, TX","16000US4856482","pecan-grove-tx",0.8378289473684211
+0,"Owner Occupied",2019,"2019",1202,65,"Piney Point Village, TX","16000US4857800","piney-point-village-tx",0.9901153212520593
+0,"Owner Occupied",2019,"2019",2733,221.00000000000003,"South Houston, TX","16000US4869020","south-houston-tx",0.5635051546391753
+0,"Owner Occupied",2019,"2019",408,41,"Southside Place, TX","16000US4869272","southside-place-tx",0.7338129496402878
+0,"Owner Occupied",2019,"2019",14142,588,"Spring, TX","16000US4869596","spring-tx",0.6956564513748832
+0,"Owner Occupied",2019,"2019",1382,86,"Spring Valley Village, TX","16000US4869830","spring-valley-village-tx",0.967109867039888
+0,"Owner Occupied",2019,"2019",31979,796,"Sugar Land, TX","16000US4870808","sugar-land-tx",0.8137564252633722
+0,"Owner Occupied",2019,"2019",29137,1020,"The Woodlands, TX","16000US4872656","the-woodlands-tx",0.7056330524072459
+0,"Owner Occupied",2019,"2019",2022,250,"Tomball, TX","16000US4873316","tomball-tx",0.4628061341268025
+0,"Owner Occupied",2019,"2019",654,156,"Webster, TX","16000US4876948","webster-tx",0.13095714857829396
+0,"Owner Occupied",2019,"2019",4918,186,"West University Place, TX","16000US4877956","west-university-place-tx",0.9075475179922495
+0,"Owner Occupied",2019,"2019",1421765,8292,"Houston-The Woodlands-Sugar Land, TX","31000US26420","houston-the-woodlands-sugar-land-tx",0.6044212517669065
+0,"Owner Occupied",2018,"2018",76444810,367132,"United States","01000US","united-states",0.6384759732320674
+0,"Owner Occupied",2018,"2018",5917771,29036.999999999996,"Texas","04000US48","texas",0.6194643048929106
+0,"Owner Occupied",2018,"2018",178984,1882.0000000000002,"Fort Bend County, TX","05000US48157","fort-bend-county-tx",0.7769043454104289
+0,"Owner Occupied",2018,"2018",865645,6326,"Harris County, TX","05000US48201","harris-county-tx",0.5466704473547603
+0,"Owner Occupied",2018,"2018",137540,2045.9999999999998,"Montgomery County, TX","05000US48339","montgomery-county-tx",0.7132966502958672
+0,"Owner Occupied",2018,"2018",2507,215.00000000000003,"Aldine, TX","16000US4801696","aldine-tx",0.6231667909520259
+0,"Owner Occupied",2018,"2018",19766,618,"Atascocita, TX","16000US4804462","atascocita-tx",0.8030389209393028
+0,"Owner Occupied",2018,"2018",5790,203,"Bellaire, TX","16000US4807300","bellaire-tx",0.8714629741119807
+0,"Owner Occupied",2018,"2018",509,96,"Brookside Village, TX","16000US4810648","brookside-village-tx",0.8671209540034072
+0,"Owner Occupied",2018,"2018",1164,74,"Bunker Hill Village, TX","16000US4811300","bunker-hill-village-tx",0.9635761589403974
+0,"Owner Occupied",2018,"2018",8185,496.99999999999994,"Channelview, TX","16000US4814236","channelview-tx",0.6939969476004748
+0,"Owner Occupied",2018,"2018",4657,235,"Cinco Ranch, TX","16000US4814929","cinco-ranch-tx",0.8279111111111112
+0,"Owner Occupied",2018,"2018",4336,268,"Cloverleaf, TX","16000US4815628","cloverleaf-tx",0.640094478889873
+0,"Owner Occupied",2018,"2018",8220,485.00000000000006,"Deer Park, TX","16000US4819624","deer-park-tx",0.7355046528274874
+0,"Owner Occupied",2018,"2018",2268,285,"Four Corners, TX","16000US4827102","four-corners-tx",0.7292604501607717
+0,"Owner Occupied",2018,"2018",5608,480.00000000000006,"Fresno, TX","16000US4827540","fresno-tx",0.8119299261618648
+0,"Owner Occupied",2018,"2018",10805,379,"Friendswood, TX","16000US4827648","friendswood-tx",0.7977702303603071
+0,"Owner Occupied",2018,"2018",2271,99,"Fulshear, TX","16000US4827876","fulshear-tx",0.9839688041594454
+0,"Owner Occupied",2018,"2018",1893,181,"Galena Park, TX","16000US4827996","galena-park-tx",0.6471794871794871
+0,"Owner Occupied",2018,"2018",549,71,"Hedwig Village, TX","16000US4833068","hedwig-village-tx",0.5915948275862069
+0,"Owner Occupied",2018,"2018",321,44,"Hilshire Village, TX","16000US4834148","hilshire-village-tx",0.963963963963964
+0,"Owner Occupied",2018,"2018",364153,4118,"Houston, TX","16000US4835000","houston-tx",0.4292536011504821
+0,"Owner Occupied",2018,"2018",2366,355,"Humble, TX","16000US4835348","humble-tx",0.405484147386461
+0,"Owner Occupied",2018,"2018",1541,78,"Hunters Creek Village, TX","16000US4835480","hunters-creek-village-tx",0.984664536741214
+0,"Owner Occupied",2018,"2018",2029,221.00000000000003,"Jacinto City, TX","16000US4837156","jacinto-city-tx",0.6400630914826498
+0,"Owner Occupied",2018,"2018",2087,155,"Jersey Village, TX","16000US4837612","jersey-village-tx",0.5358151476251605
+0,"Owner Occupied",2018,"2018",4536,343,"Katy, TX","16000US4838476","katy-tx",0.756
+0,"Owner Occupied",2018,"2018",1384,108,"Meadows Place, TX","16000US4847337","meadows-place-tx",0.923282188125417
+0,"Owner Occupied",2018,"2018",8459,344,"Mission Bend, TX","16000US4848772","mission-bend-tx",0.7806386120339609
+0,"Owner Occupied",2018,"2018",19696,752,"Missouri City, TX","16000US4848804","missouri-city-tx",0.8066511037391981
+0,"Owner Occupied",2018,"2018",1050,143,"Nassau Bay, TX","16000US4850376","nassau-bay-tx",0.5731441048034934
+0,"Owner Occupied",2018,"2018",1037,115.99999999999999,"Oak Ridge North, TX","16000US4853190","oak-ridge-north-tx",0.908851884312007
+0,"Owner Occupied",2018,"2018",25794,761,"Pasadena, TX","16000US4856000","pasadena-tx",0.5293900336589771
+0,"Owner Occupied",2018,"2018",29989,865.9999999999999,"Pearland, TX","16000US4856348","pearland-tx",0.7586965871429656
+0,"Owner Occupied",2018,"2018",5236,469,"Pecan Grove, TX","16000US4856482","pecan-grove-tx",0.8526298648428595
+0,"Owner Occupied",2018,"2018",1183,48,"Piney Point Village, TX","16000US4857800","piney-point-village-tx",0.9899581589958159
+0,"Owner Occupied",2018,"2018",2700,237,"South Houston, TX","16000US4869020","south-houston-tx",0.5728835136855506
+0,"Owner Occupied",2018,"2018",417,33,"Southside Place, TX","16000US4869272","southside-place-tx",0.7707948243992606
+0,"Owner Occupied",2018,"2018",14079,581,"Spring, TX","16000US4869596","spring-tx",0.7093767319997984
+0,"Owner Occupied",2018,"2018",1398,81,"Spring Valley Village, TX","16000US4869830","spring-valley-village-tx",0.9628099173553719
+0,"Owner Occupied",2018,"2018",31896,695,"Sugar Land, TX","16000US4870808","sugar-land-tx",0.8312094441404112
+0,"Owner Occupied",2018,"2018",28931,1019,"The Woodlands, TX","16000US4872656","the-woodlands-tx",0.7136408485446473
+0,"Owner Occupied",2018,"2018",2160,246.00000000000003,"Tomball, TX","16000US4873316","tomball-tx",0.49529924329282277
+0,"Owner Occupied",2018,"2018",649,136,"Webster, TX","16000US4876948","webster-tx",0.13861597607859888
+0,"Owner Occupied",2018,"2018",4847,202,"West University Place, TX","16000US4877956","west-university-place-tx",0.8936209439528023
+0,"Owner Occupied",2018,"2018",1395737,8413,"Houston-The Woodlands-Sugar Land, TX","31000US26420","houston-the-woodlands-sugar-land-tx",0.6041594433067428
+0,"Owner Occupied",2017,"2017",75833135,358989,"United States","01000US","united-states",0.6381868060589238
+0,"Owner Occupied",2017,"2017",5851046,29464.999999999996,"Texas","04000US48","texas",0.6204439060448957
+0,"Owner Occupied",2017,"2017",173534,1911,"Fort Bend County, TX","05000US48157","fort-bend-county-tx",0.7805209350023163
+0,"Owner Occupied",2017,"2017",855629,5250,"Harris County, TX","05000US48201","harris-county-tx",0.5474928862250314
+0,"Owner Occupied",2017,"2017",133082,1834.0000000000002,"Montgomery County, TX","05000US48339","montgomery-county-tx",0.7121978368948042
+0,"Owner Occupied",2017,"2017",2528,224,"Aldine, TX","16000US4801696","aldine-tx",0.6502057613168725
+0,"Owner Occupied",2017,"2017",19122,579,"Atascocita, TX","16000US4804462","atascocita-tx",0.8066312325993419
+0,"Owner Occupied",2017,"2017",5751,222,"Bellaire, TX","16000US4807300","bellaire-tx",0.8699137800635305
+0,"Owner Occupied",2017,"2017",527,92,"Brookside Village, TX","16000US4810648","brookside-village-tx",0.8338607594936709
+0,"Owner Occupied",2017,"2017",1172,74,"Bunker Hill Village, TX","16000US4811300","bunker-hill-village-tx",0.9782971619365609
+0,"Owner Occupied",2017,"2017",8101,429,"Channelview, TX","16000US4814236","channelview-tx",0.68121426168853
+0,"Owner Occupied",2017,"2017",4900,221.00000000000003,"Cinco Ranch, TX","16000US4814929","cinco-ranch-tx",0.8268646641916976
+0,"Owner Occupied",2017,"2017",4080,217,"Cloverleaf, TX","16000US4815628","cloverleaf-tx",0.6193078324225865
+0,"Owner Occupied",2017,"2017",8340,449.00000000000006,"Deer Park, TX","16000US4819624","deer-park-tx",0.7366189719130896
+0,"Owner Occupied",2017,"2017",2703,319,"Four Corners, TX","16000US4827102","four-corners-tx",0.818594791035736
+0,"Owner Occupied",2017,"2017",5539,408,"Fresno, TX","16000US4827540","fresno-tx",0.8286953919808497
+0,"Owner Occupied",2017,"2017",10628,410,"Friendswood, TX","16000US4827648","friendswood-tx",0.793548868812066
+0,"Owner Occupied",2017,"2017",1775,87,"Fulshear, TX","16000US4827876","fulshear-tx",0.9817477876106194
+0,"Owner Occupied",2017,"2017",1952,218,"Galena Park, TX","16000US4827996","galena-park-tx",0.65635507733692
+0,"Owner Occupied",2017,"2017",532,65,"Hedwig Village, TX","16000US4833068","hedwig-village-tx",0.5428571428571428
+0,"Owner Occupied",2017,"2017",310,42,"Hilshire Village, TX","16000US4834148","hilshire-village-tx",0.96875
+0,"Owner Occupied",2017,"2017",362878,3438.9999999999995,"Houston, TX","16000US4835000","houston-tx",0.4325382919125097
+0,"Owner Occupied",2017,"2017",2442,388,"Humble, TX","16000US4835348","humble-tx",0.4340561677923925
+0,"Owner Occupied",2017,"2017",1589,84,"Hunters Creek Village, TX","16000US4835480","hunters-creek-village-tx",0.9918851435705368
+0,"Owner Occupied",2017,"2017",1943,236,"Jacinto City, TX","16000US4837156","jacinto-city-tx",0.6129337539432177
+0,"Owner Occupied",2017,"2017",2059,156,"Jersey Village, TX","16000US4837612","jersey-village-tx",0.558448603200434
+0,"Owner Occupied",2017,"2017",4507,375,"Katy, TX","16000US4838476","katy-tx",0.7568429890848027
+0,"Owner Occupied",2017,"2017",1363,126.00000000000001,"Meadows Place, TX","16000US4847337","meadows-place-tx",0.9098798397863819
+0,"Owner Occupied",2017,"2017",8536,351,"Mission Bend, TX","16000US4848772","mission-bend-tx",0.7849917233768623
+0,"Owner Occupied",2017,"2017",19426,588,"Missouri City, TX","16000US4848804","missouri-city-tx",0.8055233040305192
+0,"Owner Occupied",2017,"2017",992,148,"Nassau Bay, TX","16000US4850376","nassau-bay-tx",0.5333333333333333
+0,"Owner Occupied",2017,"2017",1031,112.99999999999999,"Oak Ridge North, TX","16000US4853190","oak-ridge-north-tx",0.9115826702033598
+0,"Owner Occupied",2017,"2017",26079,740,"Pasadena, TX","16000US4856000","pasadena-tx",0.532975005620159
+0,"Owner Occupied",2017,"2017",29495,835,"Pearland, TX","16000US4856348","pearland-tx",0.7593584264456001
+0,"Owner Occupied",2017,"2017",5047,475,"Pecan Grove, TX","16000US4856482","pecan-grove-tx",0.8372594558725945
+0,"Owner Occupied",2017,"2017",1167,57.00000000000001,"Piney Point Village, TX","16000US4857800","piney-point-village-tx",0.9915038232795242
+0,"Owner Occupied",2017,"2017",2762,231,"South Houston, TX","16000US4869020","south-houston-tx",0.5982239549491012
+0,"Owner Occupied",2017,"2017",422,39,"Southside Place, TX","16000US4869272","southside-place-tx",0.7068676716917923
+0,"Owner Occupied",2017,"2017",14323,533,"Spring, TX","16000US4869596","spring-tx",0.7303554127785427
+0,"Owner Occupied",2017,"2017",1394,72,"Spring Valley Village, TX","16000US4869830","spring-valley-village-tx",0.9567604667124228
+0,"Owner Occupied",2017,"2017",23296,622,"Sugar Land, TX","16000US4870808","sugar-land-tx",0.8073191017466038
+0,"Owner Occupied",2017,"2017",28655,1117,"The Woodlands, TX","16000US4872656","the-woodlands-tx",0.7182784378603299
+0,"Owner Occupied",2017,"2017",2052,290,"Tomball, TX","16000US4873316","tomball-tx",0.4681724845995893
+0,"Owner Occupied",2017,"2017",582,126.00000000000001,"Webster, TX","16000US4876948","webster-tx",0.12878955521132995
+0,"Owner Occupied",2017,"2017",4844,230,"West University Place, TX","16000US4877956","west-university-place-tx",0.8855575868372944
+0,"Owner Occupied",2017,"2017",1373056,7601,"Houston-The Woodlands-Sugar Land, TX","31000US26420","houston-the-woodlands-sugar-land-tx",0.6044548220364763
+0,"Owner Occupied",2016,"2016",74881068,360470,"United States","01000US","united-states",0.6361150331368476
+0,"Owner Occupied",2016,"2016",5747458,28451,"Texas","04000US48","texas",0.6187011776884014
+0,"Owner Occupied",2016,"2016",167037,1939,"Fort Bend County, TX","05000US48157","fort-bend-county-tx",0.7800874251608866
+0,"Owner Occupied",2016,"2016",837912,5401,"Harris County, TX","05000US48201","harris-county-tx",0.5454236557767929
+0,"Owner Occupied",2016,"2016",128765,1780,"Montgomery County, TX","05000US48339","montgomery-county-tx",0.7170062420999292
+0,"Owner Occupied",2016,"2016",2399,195,"Aldine, TX","16000US4801696","aldine-tx",0.627025614218505
+0,"Owner Occupied",2016,"2016",18209,629,"Atascocita, TX","16000US4804462","atascocita-tx",0.7940778858314073
+0,"Owner Occupied",2016,"2016",5544,207,"Bellaire, TX","16000US4807300","bellaire-tx",0.8766603415559773
+0,"Owner Occupied",2016,"2016",466,81,"Brookside Village, TX","16000US4810648","brookside-village-tx",0.827708703374778
+0,"Owner Occupied",2016,"2016",1134,93,"Bunker Hill Village, TX","16000US4811300","bunker-hill-village-tx",0.9529411764705882
+0,"Owner Occupied",2016,"2016",8089,446,"Channelview, TX","16000US4814236","channelview-tx",0.6815807212672733
+0,"Owner Occupied",2016,"2016",4604,238.99999999999997,"Cinco Ranch, TX","16000US4814929","cinco-ranch-tx",0.814002828854314
+0,"Owner Occupied",2016,"2016",3967,216,"Cloverleaf, TX","16000US4815628","cloverleaf-tx",0.6119080672528151
+0,"Owner Occupied",2016,"2016",8290,416,"Deer Park, TX","16000US4819624","deer-park-tx",0.7424323840229268
+0,"Owner Occupied",2016,"2016",2815,297,"Four Corners, TX","16000US4827102","four-corners-tx",0.8556231003039514
+0,"Owner Occupied",2016,"2016",5065,458,"Fresno, TX","16000US4827540","fresno-tx",0.8329222167406677
+0,"Owner Occupied",2016,"2016",10492,355,"Friendswood, TX","16000US4827648","friendswood-tx",0.7932259771679141
+0,"Owner Occupied",2016,"2016",1336,77,"Fulshear, TX","16000US4827876","fulshear-tx",0.9766081871345029
+0,"Owner Occupied",2016,"2016",2027,211,"Galena Park, TX","16000US4827996","galena-park-tx",0.6718594630427577
+0,"Owner Occupied",2016,"2016",549,60.00000000000001,"Hedwig Village, TX","16000US4833068","hedwig-village-tx",0.5671487603305785
+0,"Owner Occupied",2016,"2016",308,42,"Hilshire Village, TX","16000US4834148","hilshire-village-tx",0.9595015576323987
+0,"Owner Occupied",2016,"2016",359118,3393,"Houston, TX","16000US4835000","houston-tx",0.43206531547248084
+0,"Owner Occupied",2016,"2016",2378,337,"Humble, TX","16000US4835348","humble-tx",0.44143307963616113
+0,"Owner Occupied",2016,"2016",1504,92,"Hunters Creek Village, TX","16000US4835480","hunters-creek-village-tx",0.9622520793346129
+0,"Owner Occupied",2016,"2016",1743,202,"Jacinto City, TX","16000US4837156","jacinto-city-tx",0.5488035264483627
+0,"Owner Occupied",2016,"2016",1987,146,"Jersey Village, TX","16000US4837612","jersey-village-tx",0.558459808881394
+0,"Owner Occupied",2016,"2016",4166,301,"Katy, TX","16000US4838476","katy-tx",0.7334507042253521
+0,"Owner Occupied",2016,"2016",1423,138,"Meadows Place, TX","16000US4847337","meadows-place-tx",0.9204398447606728
+0,"Owner Occupied",2016,"2016",8254,340,"Mission Bend, TX","16000US4848772","mission-bend-tx",0.7825922063145918
+0,"Owner Occupied",2016,"2016",19332,708,"Missouri City, TX","16000US4848804","missouri-city-tx",0.8120982986767485
+0,"Owner Occupied",2016,"2016",948,143,"Nassau Bay, TX","16000US4850376","nassau-bay-tx",0.49581589958158995
+0,"Owner Occupied",2016,"2016",1052,71,"Oak Ridge North, TX","16000US4853190","oak-ridge-north-tx",0.9460431654676259
+0,"Owner Occupied",2016,"2016",26038,709,"Pasadena, TX","16000US4856000","pasadena-tx",0.5286903553299492
+0,"Owner Occupied",2016,"2016",26861,903.0000000000001,"Pearland, TX","16000US4856348","pearland-tx",0.753379704941942
+0,"Owner Occupied",2016,"2016",5151,392,"Pecan Grove, TX","16000US4856482","pecan-grove-tx",0.8542288557213931
+0,"Owner Occupied",2016,"2016",1144,63.00000000000001,"Piney Point Village, TX","16000US4857800","piney-point-village-tx",0.9836629406706793
+0,"Owner Occupied",2016,"2016",2736,244.99999999999997,"South Houston, TX","16000US4869020","south-houston-tx",0.5886402753872634
+0,"Owner Occupied",2016,"2016",420,42,"Southside Place, TX","16000US4869272","southside-place-tx",0.6687898089171974
+0,"Owner Occupied",2016,"2016",13805,614,"Spring, TX","16000US4869596","spring-tx",0.7236462756198564
+0,"Owner Occupied",2016,"2016",1408,78,"Spring Valley Village, TX","16000US4869830","spring-valley-village-tx",0.952638700947226
+0,"Owner Occupied",2016,"2016",22947,684,"Sugar Land, TX","16000US4870808","sugar-land-tx",0.8189507494646681
+0,"Owner Occupied",2016,"2016",28275,982,"The Woodlands, TX","16000US4872656","the-woodlands-tx",0.7193375225786756
+0,"Owner Occupied",2016,"2016",1896,231.99999999999997,"Tomball, TX","16000US4873316","tomball-tx",0.4574185765983112
+0,"Owner Occupied",2016,"2016",588,152,"Webster, TX","16000US4876948","webster-tx",0.1253998720409469
+0,"Owner Occupied",2016,"2016",4861,215.00000000000003,"West University Place, TX","16000US4877956","west-university-place-tx",0.8885030159020288
+0,"Owner Occupied",2016,"2016",1339428,7786,"Houston-The Woodlands-Sugar Land, TX","31000US26420","houston-the-woodlands-sugar-land-tx",0.6023071018500074
+0,"Owner Occupied",2015,"2015",74712091,353420,"United States","01000US","united-states",0.6389673478521365
+0,"Owner Occupied",2015,"2015",5693770,28353,"Texas","04000US48","texas",0.6223246283061376
+0,"Owner Occupied",2015,"2015",162261,2102,"Fort Bend County, TX","05000US48157","fort-bend-county-tx",0.7869565639125459
+0,"Owner Occupied",2015,"2015",823646,5791,"Harris County, TX","05000US48201","harris-county-tx",0.5492701703469358
+0,"Owner Occupied",2015,"2015",124410,1276,"Montgomery County, TX","05000US48339","montgomery-county-tx",0.7181449797388564
+0,"Owner Occupied",2015,"2015",2293,231.99999999999997,"Aldine, TX","16000US4801696","aldine-tx",0.6079003181336161
+0,"Owner Occupied",2015,"2015",17327,636,"Atascocita, TX","16000US4804462","atascocita-tx",0.7943792407848891
+0,"Owner Occupied",2015,"2015",5506,211,"Bellaire, TX","16000US4807300","bellaire-tx",0.8849244615879138
+0,"Owner Occupied",2015,"2015",459,70,"Brookside Village, TX","16000US4810648","brookside-village-tx",0.8579439252336448
+0,"Owner Occupied",2015,"2015",1167,83,"Bunker Hill Village, TX","16000US4811300","bunker-hill-village-tx",0.9557739557739557
+0,"Owner Occupied",2015,"2015",7679,465.99999999999994,"Channelview, TX","16000US4814236","channelview-tx",0.6632979182862573
+0,"Owner Occupied",2015,"2015",4804,303,"Cinco Ranch, TX","16000US4814929","cinco-ranch-tx",0.8373714484922433
+0,"Owner Occupied",2015,"2015",3940,235,"Cloverleaf, TX","16000US4815628","cloverleaf-tx",0.6187185929648241
+0,"Owner Occupied",2015,"2015",8296,453,"Deer Park, TX","16000US4819624","deer-park-tx",0.7423049391553329
+0,"Owner Occupied",2015,"2015",2741,292,"Four Corners, TX","16000US4827102","four-corners-tx",0.8351614868982328
+0,"Owner Occupied",2015,"2015",4914,342,"Fresno, TX","16000US4827540","fresno-tx",0.8289473684210527
+0,"Owner Occupied",2015,"2015",10337,399,"Friendswood, TX","16000US4827648","friendswood-tx",0.7875809523809524
+0,"Owner Occupied",2015,"2015",999,64,"Fulshear, TX","16000US4827876","fulshear-tx",0.9615014436958614
+0,"Owner Occupied",2015,"2015",1975,215.00000000000003,"Galena Park, TX","16000US4827996","galena-park-tx",0.6661045531197302
+0,"Owner Occupied",2015,"2015",567,53,"Hedwig Village, TX","16000US4833068","hedwig-village-tx",0.5768056968463886
+0,"Owner Occupied",2015,"2015",273,42,"Hilshire Village, TX","16000US4834148","hilshire-village-tx",0.9381443298969072
+0,"Owner Occupied",2015,"2015",355867,3204,"Houston, TX","16000US4835000","houston-tx",0.43686157238101203
+0,"Owner Occupied",2015,"2015",2443,293,"Humble, TX","16000US4835348","humble-tx",0.45646487294469357
+0,"Owner Occupied",2015,"2015",1468,103,"Hunters Creek Village, TX","16000US4835480","hunters-creek-village-tx",0.9575994781474233
+0,"Owner Occupied",2015,"2015",1782,297,"Jacinto City, TX","16000US4837156","jacinto-city-tx",0.5626776128828544
+0,"Owner Occupied",2015,"2015",2028,131,"Jersey Village, TX","16000US4837612","jersey-village-tx",0.5772843723313408
+0,"Owner Occupied",2015,"2015",4077,355,"Katy, TX","16000US4838476","katy-tx",0.7318255250403877
+0,"Owner Occupied",2015,"2015",1454,106.99999999999999,"Meadows Place, TX","16000US4847337","meadows-place-tx",0.8774894387447194
+0,"Owner Occupied",2015,"2015",8362,379,"Mission Bend, TX","16000US4848772","mission-bend-tx",0.7858283995865051
+0,"Owner Occupied",2015,"2015",19282,573,"Missouri City, TX","16000US4848804","missouri-city-tx",0.8300116224011019
+0,"Owner Occupied",2015,"2015",979,169,"Nassau Bay, TX","16000US4850376","nassau-bay-tx",0.5207446808510638
+0,"Owner Occupied",2015,"2015",996,84,"Oak Ridge North, TX","16000US4853190","oak-ridge-north-tx",0.930841121495327
+0,"Owner Occupied",2015,"2015",26733,779,"Pasadena, TX","16000US4856000","pasadena-tx",0.5427359103459477
+0,"Owner Occupied",2015,"2015",26679,871,"Pearland, TX","16000US4856348","pearland-tx",0.7671670117322291
+0,"Owner Occupied",2015,"2015",5148,392,"Pecan Grove, TX","16000US4856482","pecan-grove-tx",0.8713608666215301
+0,"Owner Occupied",2015,"2015",1099,54.99999999999999,"Piney Point Village, TX","16000US4857800","piney-point-village-tx",0.9665787159190853
+0,"Owner Occupied",2015,"2015",2872,231.99999999999997,"South Houston, TX","16000US4869020","south-houston-tx",0.6101550881665604
+0,"Owner Occupied",2015,"2015",422,31,"Southside Place, TX","16000US4869272","southside-place-tx",0.6752
+0,"Owner Occupied",2015,"2015",13675,504.00000000000006,"Spring, TX","16000US4869596","spring-tx",0.7331260387069104
+0,"Owner Occupied",2015,"2015",1313,101,"Spring Valley Village, TX","16000US4869830","spring-valley-village-tx",0.9168994413407822
+0,"Owner Occupied",2015,"2015",22671,588,"Sugar Land, TX","16000US4870808","sugar-land-tx",0.8218001232464567
+0,"Owner Occupied",2015,"2015",27725,908.0000000000001,"The Woodlands, TX","16000US4872656","the-woodlands-tx",0.7274229941753686
+0,"Owner Occupied",2015,"2015",1791,263,"Tomball, TX","16000US4873316","tomball-tx",0.4392935982339956
+0,"Owner Occupied",2015,"2015",618,145,"Webster, TX","16000US4876948","webster-tx",0.13224909052000855
+0,"Owner Occupied",2015,"2015",4837,225,"West University Place, TX","16000US4877956","west-university-place-tx",0.8743673174258858
+0,"Owner Occupied",2015,"2015",1314631,7980,"Houston-The Woodlands-Sugar Land, TX","31000US26420","houston-the-woodlands-sugar-land-tx",0.6062001012615268
+0,"Owner Occupied",2014,"2014",74787460,343068,"United States","01000US","united-states",0.6435483800462007
+0,"Owner Occupied",2014,"2014",5652542,27547,"Texas","04000US48","texas",0.6271138377617245
+0,"Owner Occupied",2014,"2014",156145,1413,"Fort Bend County, TX","05000US48157","fort-bend-county-tx",0.7873545251013534
+0,"Owner Occupied",2014,"2014",813637,6108,"Harris County, TX","05000US48201","harris-county-tx",0.5565224944972715
+0,"Owner Occupied",2014,"2014",122014,1698,"Montgomery County, TX","05000US48339","montgomery-county-tx",0.7250696759548131
+0,"Owner Occupied",2014,"2014",2368,221.00000000000003,"Aldine, TX","16000US4801696","aldine-tx",0.632309746328438
+0,"Owner Occupied",2014,"2014",17186,619,"Atascocita, TX","16000US4804462","atascocita-tx",0.7959429418303076
+0,"Owner Occupied",2014,"2014",5263,238.99999999999997,"Bellaire, TX","16000US4807300","bellaire-tx",0.874688382915074
+0,"Owner Occupied",2014,"2014",474,85,"Brookside Village, TX","16000US4810648","brookside-village-tx",0.8330404217926186
+0,"Owner Occupied",2014,"2014",1165,83,"Bunker Hill Village, TX","16000US4811300","bunker-hill-village-tx",0.9564860426929392
+0,"Owner Occupied",2014,"2014",7770,480.00000000000006,"Channelview, TX","16000US4814236","channelview-tx",0.6820575842696629
+0,"Owner Occupied",2014,"2014",4664,312,"Cinco Ranch, TX","16000US4814929","cinco-ranch-tx",0.7615937295885042
+0,"Owner Occupied",2014,"2014",3926,207,"Cloverleaf, TX","16000US4815628","cloverleaf-tx",0.5962940461725394
+0,"Owner Occupied",2014,"2014",8147,370,"Deer Park, TX","16000US4819624","deer-park-tx",0.731394200556603
+0,"Owner Occupied",2014,"2014",2537,322,"Four Corners, TX","16000US4827102","four-corners-tx",0.7699544764795144
+0,"Owner Occupied",2014,"2014",4682,446.99999999999994,"Fresno, TX","16000US4827540","fresno-tx",0.8298475717830557
+0,"Owner Occupied",2014,"2014",10407,384,"Friendswood, TX","16000US4827648","friendswood-tx",0.798572744014733
+0,"Owner Occupied",2014,"2014",685,69,"Fulshear, TX","16000US4827876","fulshear-tx",0.9170013386880856
+0,"Owner Occupied",2014,"2014",2025,241,"Galena Park, TX","16000US4827996","galena-park-tx",0.6738768718801996
+0,"Owner Occupied",2014,"2014",626,76,"Hedwig Village, TX","16000US4833068","hedwig-village-tx",0.6527632950990615
+0,"Owner Occupied",2014,"2014",239,47,"Hilshire Village, TX","16000US4834148","hilshire-village-tx",0.9372549019607843
+0,"Owner Occupied",2014,"2014",353069,4061,"Houston, TX","16000US4835000","houston-tx",0.44536513434658276
+0,"Owner Occupied",2014,"2014",2449,307,"Humble, TX","16000US4835348","humble-tx",0.4496878442893867
+0,"Owner Occupied",2014,"2014",1422,91,"Hunters Creek Village, TX","16000US4835480","hunters-creek-village-tx",0.9647218453188603
+0,"Owner Occupied",2014,"2014",1729,242,"Jacinto City, TX","16000US4837156","jacinto-city-tx",0.5788416471375962
+0,"Owner Occupied",2014,"2014",2032,154,"Jersey Village, TX","16000US4837612","jersey-village-tx",0.6080191502094554
+0,"Owner Occupied",2014,"2014",3915,284,"Katy, TX","16000US4838476","katy-tx",0.7397959183673469
+0,"Owner Occupied",2014,"2014",1465,114.00000000000001,"Meadows Place, TX","16000US4847337","meadows-place-tx",0.8653278204370939
+0,"Owner Occupied",2014,"2014",8484,359,"Mission Bend, TX","16000US4848772","mission-bend-tx",0.7988700564971751
+0,"Owner Occupied",2014,"2014",18906,586,"Missouri City, TX","16000US4848804","missouri-city-tx",0.8428889879625502
+0,"Owner Occupied",2014,"2014",1007,155,"Nassau Bay, TX","16000US4850376","nassau-bay-tx",0.5493726132024004
+0,"Owner Occupied",2014,"2014",1017,82,"Oak Ridge North, TX","16000US4853190","oak-ridge-north-tx",0.9228675136116152
+0,"Owner Occupied",2014,"2014",26959,694,"Pasadena, TX","16000US4856000","pasadena-tx",0.5555578452788196
+0,"Owner Occupied",2014,"2014",26006,826,"Pearland, TX","16000US4856348","pearland-tx",0.7853950229524039
+0,"Owner Occupied",2014,"2014",5077,399,"Pecan Grove, TX","16000US4856482","pecan-grove-tx",0.8637291595780878
+0,"Owner Occupied",2014,"2014",1082,65,"Piney Point Village, TX","16000US4857800","piney-point-village-tx",0.9533039647577093
+0,"Owner Occupied",2014,"2014",2847,207,"South Houston, TX","16000US4869020","south-houston-tx",0.6097665452987792
+0,"Owner Occupied",2014,"2014",418,31,"Southside Place, TX","16000US4869272","southside-place-tx",0.6720257234726688
+0,"Owner Occupied",2014,"2014",13787,607,"Spring, TX","16000US4869596","spring-tx",0.7623866401238664
+0,"Owner Occupied",2014,"2014",1290,79,"Spring Valley Village, TX","16000US4869830","spring-valley-village-tx",0.9361393323657474
+0,"Owner Occupied",2014,"2014",21880,630,"Sugar Land, TX","16000US4870808","sugar-land-tx",0.8214755021588136
+0,"Owner Occupied",2014,"2014",27294,860.0000000000001,"The Woodlands, TX","16000US4872656","the-woodlands-tx",0.7309783336457859
+0,"Owner Occupied",2014,"2014",1748,254,"Tomball, TX","16000US4873316","tomball-tx",0.42171290711700843
+0,"Owner Occupied",2014,"2014",599,155,"Webster, TX","16000US4876948","webster-tx",0.1266384778012685
+0,"Owner Occupied",2014,"2014",4747,188,"West University Place, TX","16000US4877956","west-university-place-tx",0.8745394252026529
+0,"Owner Occupied",2014,"2014",1295275,7986.999999999999,"Houston-The Woodlands-Sugar Land, TX","31000US26420","houston-the-woodlands-sugar-land-tx",0.6131633124996746
+0,"Owner Occupied",2013,"2013",75075700,345645,"United States","01000US","united-states",0.649386382947334
+0,"Owner Occupied",2013,"2013",5623552,26405,"Texas","04000US48","texas",0.6328217354223066
+0,"Owner Occupied",2013,"2013",150628,1571,"Fort Bend County, TX","05000US48157","fort-bend-county-tx",0.7869554768398065
+0,"Owner Occupied",2013,"2013",810622,5451,"Harris County, TX","05000US48201","harris-county-tx",0.5650138635834541
+0,"Owner Occupied",2013,"2013",119126,1595,"Montgomery County, TX","05000US48339","montgomery-county-tx",0.7287687658293671
+0,"Owner Occupied",2013,"2013",2228,232.99999999999997,"Aldine, TX","16000US4801696","aldine-tx",0.6044492674986435
+0,"Owner Occupied",2013,"2013",17013,514,"Atascocita, TX","16000US4804462","atascocita-tx",0.8063797516352261
+0,"Owner Occupied",2013,"2013",5409,219,"Bellaire, TX","16000US4807300","bellaire-tx",0.8979083665338645
+0,"Owner Occupied",2013,"2013",473,83,"Brookside Village, TX","16000US4810648","brookside-village-tx",0.8003384094754653
+0,"Owner Occupied",2013,"2013",1100,98,"Bunker Hill Village, TX","16000US4811300","bunker-hill-village-tx",0.9417808219178082
+0,"Owner Occupied",2013,"2013",7911,392,"Channelview, TX","16000US4814236","channelview-tx",0.6926713947990544
+0,"Owner Occupied",2013,"2013",4809,271,"Cinco Ranch, TX","16000US4814929","cinco-ranch-tx",0.7869415807560137
+0,"Owner Occupied",2013,"2013",3996,265,"Cloverleaf, TX","16000US4815628","cloverleaf-tx",0.602624038606545
+0,"Owner Occupied",2013,"2013",8192,371,"Deer Park, TX","16000US4819624","deer-park-tx",0.7527336212441422
+0,"Owner Occupied",2013,"2013",2583,285,"Four Corners, TX","16000US4827102","four-corners-tx",0.7872599817128925
+0,"Owner Occupied",2013,"2013",4526,309,"Fresno, TX","16000US4827540","fresno-tx",0.8338246131171703
+0,"Owner Occupied",2013,"2013",10412,408,"Friendswood, TX","16000US4827648","friendswood-tx",0.810272373540856
+0,"Owner Occupied",2013,"2013",461,59,"Fulshear, TX","16000US4827876","fulshear-tx",0.8321299638989169
+0,"Owner Occupied",2013,"2013",2099,211,"Galena Park, TX","16000US4827996","galena-park-tx",0.6850522193211488
+0,"Owner Occupied",2013,"2013",642,77,"Hedwig Village, TX","16000US4833068","hedwig-village-tx",0.6858974358974359
+0,"Owner Occupied",2013,"2013",237,46,"Hilshire Village, TX","16000US4834148","hilshire-village-tx",0.9080459770114943
+0,"Owner Occupied",2013,"2013",354667,3544.9999999999995,"Houston, TX","16000US4835000","houston-tx",0.4538825477632015
+0,"Owner Occupied",2013,"2013",2429,286,"Humble, TX","16000US4835348","humble-tx",0.457611152976639
+0,"Owner Occupied",2013,"2013",1382,86,"Hunters Creek Village, TX","16000US4835480","hunters-creek-village-tx",0.9623955431754875
+0,"Owner Occupied",2013,"2013",1845,234.00000000000003,"Jacinto City, TX","16000US4837156","jacinto-city-tx",0.6266983695652174
+0,"Owner Occupied",2013,"2013",1928,146,"Jersey Village, TX","16000US4837612","jersey-village-tx",0.5976441413515189
+0,"Owner Occupied",2013,"2013",3716,296,"Katy, TX","16000US4838476","katy-tx",0.72720156555773
+0,"Owner Occupied",2013,"2013",1569,88,"Meadows Place, TX","16000US4847337","meadows-place-tx",0.8721511951083936
+0,"Owner Occupied",2013,"2013",8299,344,"Mission Bend, TX","16000US4848772","mission-bend-tx",0.7973674096848578
+0,"Owner Occupied",2013,"2013",18751,700,"Missouri City, TX","16000US4848804","missouri-city-tx",0.8453631486407286
+0,"Owner Occupied",2013,"2013",1166,199,"Nassau Bay, TX","16000US4850376","nassau-bay-tx",0.618895966029724
+0,"Owner Occupied",2013,"2013",1036,84,"Oak Ridge North, TX","16000US4853190","oak-ridge-north-tx",0.9418181818181818
+0,"Owner Occupied",2013,"2013",26888,813,"Pasadena, TX","16000US4856000","pasadena-tx",0.5674130035663789
+0,"Owner Occupied",2013,"2013",25733,770,"Pearland, TX","16000US4856348","pearland-tx",0.796785979687887
+0,"Owner Occupied",2013,"2013",4871,392,"Pecan Grove, TX","16000US4856482","pecan-grove-tx",0.8704431736954967
+0,"Owner Occupied",2013,"2013",1055,70,"Piney Point Village, TX","16000US4857800","piney-point-village-tx",0.9394479073909172
+0,"Owner Occupied",2013,"2013",2970,289,"South Houston, TX","16000US4869020","south-houston-tx",0.6140169526566054
+0,"Owner Occupied",2013,"2013",409,26,"Southside Place, TX","16000US4869272","southside-place-tx",0.6794019933554817
+0,"Owner Occupied",2013,"2013",13795,470.99999999999994,"Spring, TX","16000US4869596","spring-tx",0.7648591705477933
+0,"Owner Occupied",2013,"2013",1292,83,"Spring Valley Village, TX","16000US4869830","spring-valley-village-tx",0.9382716049382716
+0,"Owner Occupied",2013,"2013",21617,623,"Sugar Land, TX","16000US4870808","sugar-land-tx",0.8131582907011736
+0,"Owner Occupied",2013,"2013",26596,819,"The Woodlands, TX","16000US4872656","the-woodlands-tx",0.7365680735571064
+0,"Owner Occupied",2013,"2013",1768,272,"Tomball, TX","16000US4873316","tomball-tx",0.41240961045019825
+0,"Owner Occupied",2013,"2013",607,149,"Webster, TX","16000US4876948","webster-tx",0.12733375288441368
+0,"Owner Occupied",2013,"2013",4713,160,"West University Place, TX","16000US4877956","west-university-place-tx",0.8731011485735457
+0,"Owner Occupied",2013,"2013",1282414,7096,"Houston-The Woodlands-Sugar Land, TX","31000US26420","houston-the-woodlands-sugar-land-tx",0.6199675323105721
